@@ -25,6 +25,7 @@ Thank you for taking the time to check out my Github!
 
 ### Touching Grass - Sagehen Creek
 I spend a lot of time in front of a computer so here is my favorite picture of me in the wild...
+<img align="center" src="https://github.com/romero61/romero61/blob/main/IMG_1368.jpg" width="300">
 
 <!--
 **romero61/romero61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
