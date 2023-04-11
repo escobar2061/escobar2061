@@ -14,7 +14,7 @@ Thank you for taking the time to check out my Github!
 
 - 📌 Check out my favorite repos I've worked on that I've pinned. Most of my repositories are currently coursework as I complete my Masters in Environmental Data Science at the University of California, Santa Barbara(UCSB). 
 
-- 📚 You can see visuals and completed projects over on my [website](https://romero61.github.io/projects.html)
+- 📚 You can see visuals and completed projects over on my [website](https://romero61.github.io/projects.html) that I built using quarto.
 
 -  I'm passionate about the intersection of machine learning  💻, remote sensing 🛰, and environmental problems 🌏.
 
