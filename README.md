@@ -19,7 +19,7 @@ Thank you for taking the time to check out my Github!
 -  I'm passionate about the intersection of machine learning  💻, remote sensing 🛰, and environmental problems 🌏.
 
 # Education
-- Master of Environmnetal Data Science (Pending June 2023) - UCSB
+- Master of Environmnetal Data Science (Expected June 2023) - UCSB
 - B.S. Earth Science, Geohydrology Concentration (2022) - UCSB
 - B.A. Geography, Geographic Information Science Concentration (2022)- UCSB
 
