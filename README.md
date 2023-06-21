@@ -12,19 +12,20 @@
 # Hi! 👋🏽
 Thank you for taking the time to check out my Github! 
 
-- 📌 Check out my favorite repos I've worked on that I've pinned. Most of my repositories are currently coursework as I complete my Masters in Environmental Data Science at the University of California, Santa Barbara(UCSB). 
+- 📌 Take a look at the highlighted repositories I've pinned, showcasing my favorite projects. While many of these stemmed from my coursework at the University of California, Santa Barbara (UCSB), where I earned my Master's in Environmental Data Science, each demonstrates the practical application of the skills and knowledge I've acquired throughout my academic journey. 
 
-- 📚 You can see visuals and completed projects over on my [website](https://romero61.github.io/projects.html) that I built using quarto.
+- 📚 You can see visuals and completed projects over on my [website](https://romero61.github.io/projects.html) that I built using Quarto.
 
 -  I'm passionate about the intersection of machine learning  💻, remote sensing 🛰, and environmental problems 🌏.
 
 # Education
-- Master of Environmnetal Data Science (Expected June 2023) - UCSB
+- MDS  Environmnetal Data Science (June 2023) - UCSB
 - B.S. Earth Science, Geohydrology Concentration (2022) - UCSB
 - B.A. Geography, Geographic Information Science Concentration (2022)- UCSB
 
 ### Touching Grass - Sagehen Creek
 I spend a lot of time in front of a computer so here is my favorite picture of me in the wild...
+
 <img align="center" src="https://github.com/romero61/romero61/blob/main/IMG_1368.jpg" width="300">
 
 <!--
