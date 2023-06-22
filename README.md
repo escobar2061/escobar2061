@@ -10,9 +10,8 @@
 
 🔗 **LinkedIn:** 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/romero61/)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="romero61" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/romero61?trk=profile-badge">Guillermo Romero</a></div>
               
 # Hi! 👋🏽
 Thank you for taking the time to check out my Github! 
