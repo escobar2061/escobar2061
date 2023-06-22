@@ -8,9 +8,7 @@
 
 📬 **Contact:** [@romero61](romero61@ucsb.edu)
 
-🔗 **LinkedIn:** 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/romero61/)
+🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/romero61/)
 
               
 # Hi! 👋🏽
