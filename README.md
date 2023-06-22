@@ -5,7 +5,7 @@
 
 
 📝 **Personal website:**
-[![romero61.github.io](https://awesome.re/badge.svg)]([https://awesome.re](https://romero61.github.io/))
+[![romero61.github.io](https://awesome.re/badge.svg)]([(https://romero61.github.io/)])
 
 📬 **Contact:** [@romero61](romero61@ucsb.edu)
 
