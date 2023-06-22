@@ -6,9 +6,9 @@
 
 📝 **Personal website:** [romero61.github.io](https://romero61.github.io/)
 
-📬 **Contact:** [@romero61](romero61@ucsb.edu)
 
-🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/romero61/)
+📬 **Contact:** [@romero61](romero61@ucsb.edu)
+🔗 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/romero61/)
 
               
 # Hi! 👋🏽
