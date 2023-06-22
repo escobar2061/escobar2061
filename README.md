@@ -4,8 +4,8 @@
 <h2 align="center"> Environmental Data Science | Geography | Earth Science </h2>
 
 
-📝 **Personal website:** [romero61.github.io](https://romero61.github.io/)
-
+📝 **Personal website:**
+[![romero61.github.io](https://awesome.re/badge.svg)]([https://awesome.re](https://romero61.github.io/))
 
 📬 **Contact:** [@romero61](romero61@ucsb.edu)
 
