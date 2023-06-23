@@ -6,7 +6,7 @@
 📝 
 
 [![romero61.github.io](https://img.shields.io/badge/Website-romero61.github.io-blue)](https://romero61.github.io/) 
-
+[![romero61.github.io](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://romero61.github.io/)
 📬 
 
 [![Email](https://img.shields.io/badge/Email-romero61%40bren.ucsb.edu-blue)](mailto:romero61@bren.ucsb.edu) 
