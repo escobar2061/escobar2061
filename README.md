@@ -4,13 +4,13 @@
 <h2 align="center"> Environmental Data Science | Geography | Earth Science </h2>
 
 
-
-[![Email](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:romero61@bren.ucsb.edu) 
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/romero61/) 
-
-[![romero61.github.io](https://github.com/romero61/romero61.github.io/blob/main/img/website-romero61.github.io.svg)](https://romero61.github.io/) 
-
+|
+|[![Email](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:romero61@bren.ucsb.edu) 
+|
+|[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/romero61/) 
+|
+|[![romero61.github.io](https://github.com/romero61/romero61.github.io/blob/main/img/website-romero61.github.io.svg)](https://romero61.github.io/) 
+___________________________________________________________________________
               
 # Hi! 👋🏽
 Thank you for taking the time to check out my Github! 
