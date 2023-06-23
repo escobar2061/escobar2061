@@ -15,8 +15,8 @@
 |
 
 |[![romero61.github.io](https://github.com/romero61/romero61.github.io/blob/main/img/website-romero61.github.io.svg)](https://romero61.github.io/) 
+- - - - - - - - - - - - - - - - 
 
------------------------------------------------------------------------------------------------------------------------              
 # Hi! 👋🏽
 Thank you for taking the time to check out my Github! 
 
