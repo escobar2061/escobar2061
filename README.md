@@ -3,15 +3,10 @@
 
 <h2 align="center"> Environmental Data Science | Geography | Earth Science </h2>
 
-📝 
-
-[![romero61.github.io](https://img.shields.io/badge/Website-romero61.github.io-blue)](https://romero61.github.io/) 
-
-[![romero61.github.io](https://github.com/romero61/romero61.github.io/blob/main/img/website-romero61.github.io.svg)](https://romero61.github.io/) 
+📝 [![romero61.github.io](https://github.com/romero61/romero61.github.io/blob/main/img/website-romero61.github.io.svg)](https://romero61.github.io/) 
 
 
 📬 
-
 [![Email](https://img.shields.io/badge/Email-romero61%40bren.ucsb.edu-blue)](mailto:romero61@bren.ucsb.edu) 
 
 🔗
