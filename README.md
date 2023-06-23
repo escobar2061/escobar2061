@@ -6,6 +6,7 @@
 [![romero61.github.io](https://github.com/romero61/romero61.github.io/blob/main/img/website-romero61.github.io.svg)](https://romero61.github.io/) 
 
 
+![romero61@bren.ucsb.edu](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)
 
 [![Email](https://img.shields.io/badge/Email-romero61%40bren.ucsb.edu-blue)](mailto:romero61@bren.ucsb.edu) 
 
