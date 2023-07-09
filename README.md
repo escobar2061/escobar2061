@@ -16,9 +16,9 @@ Thank you for taking the time to check out my Github!
 - 📌 Take a look at the highlighted repositories I've pinned, showcasing my favorite projects. While many of these stemmed from my coursework at the Bren School of Environmental Science & Management – University of California, Santa Barbara (UCSB), where I earned my Master's in Environmental Data Science, each demonstrates the practical application of the skills and knowledge I've acquired throughout my academic journey.
 
 
-<img  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-dark-mode-only" style="width: 300px; margin-right: 20px;" /> <img  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-light-mode-only" style="width: 300px; margin-right: 20px;" />
+<img align="left"  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-dark-mode-only" style="width: 300px; margin-right: 20px;" /> <img  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-light-mode-only" style="width: 300px; margin-right: 20px;" />
 
-<img  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-dark-mode-only" style="width: 300px; margin-right: 20px;" /> <img  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-light-mode-only" style="width: 300px; margin-right: 20px;" />
+<img align="right"  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-dark-mode-only" style="width: 300px; margin-right: 20px;" /> <img  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-light-mode-only" style="width: 300px; margin-right: 20px;" />
 
 
 <br clear="all" />
