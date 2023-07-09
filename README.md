@@ -23,7 +23,6 @@ Thank you for taking the time to check out my Github!
 
 
 
-
   
 - 📚 You can see more visuals and completed projects over on my [website](https://romero61.github.io/projects.html) that I built using Quarto.
 
