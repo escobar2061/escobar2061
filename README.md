@@ -17,9 +17,9 @@ Thank you for taking the time to check out my Github!
 
 
 <h2 align="center">
-<img  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="300" /> <img  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-light-mode-only" width="300" />
+<img  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-dark-mode-only" style="width: 300px; margin-right: 20px;" /> <img  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-light-mode-only" style="width: 300px; margin-right: 20px;" />
 
-<img  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="300" /> <img  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-light-mode-only" width="300" />
+<img  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-dark-mode-only" style="width: 300px; margin-right: 20px;" /> <img  src="https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-light-mode-only" style="width: 300px; margin-right: 20px;" />
 </h2>
 
 <br clear="all" />
