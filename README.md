@@ -18,10 +18,7 @@ Thank you for taking the time to check out my Github!
 
   
 ![](https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-
-![](https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 - 📚 You can see more visuals and completed projects over on my [website](https://romero61.github.io/projects.html) that I built using Quarto.
