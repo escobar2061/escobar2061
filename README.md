@@ -6,7 +6,7 @@
 
 
 <a href="mailto:romero61@bren.ucsb.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="Email" style="margin-right: 20px;"/></a>
-<a href="https://romero61.github.io/"><img src="https://github.com/romero61/romero61.github.io/blob/main/img/website-romero61.github.io.svg" alt="romero61.github.io" style="width: 80px; margin-right: 20px;"/></a>
+<a href="https://romero61.github.io/"><img src="https://github.com/romero61/romero61.github.io/blob/main/img/website-romero61.github.io.svg" alt="romero61.github.io" style="width: 200px; margin-right: 20px;"/></a>
 <a href="https://www.linkedin.com/in/romero61/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge"/></a>
 
 
