@@ -18,9 +18,7 @@ Thank you for taking the time to check out my Github!
 
  <p float="left"> 
   
-![](https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/romero61/github-stats/master/generated/overview.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/romero61/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <p float="left">
   
