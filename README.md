@@ -1,5 +1,5 @@
 
-<h1 align="center"> GUILLERMO Escobar </h1>
+<h1 align="center"> GUILLERMO ESCOBAR </h1>
 
 <h2 align="center"> Environmental Data Science | Geography | Earth Science </h2>
 
